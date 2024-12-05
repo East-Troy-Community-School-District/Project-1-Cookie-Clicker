@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cookie",
+  "%Name":"obj_1_upgrade_button",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cookie",
+  "name":"obj_1_upgrade_button",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,20 +24,15 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[
-    {"x":0.0,"y":0.0,},
-    {"x":300.0,"y":0.0,},
-    {"x":300.0,"y":300.0,},
-    {"x":0.0,"y":300.0,},
-  ],
+  "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprt_cookie",
-    "path":"sprites/sprt_cookie/sprt_cookie.yy",
+    "name":"sprt_button",
+    "path":"sprites/sprt_button/sprt_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

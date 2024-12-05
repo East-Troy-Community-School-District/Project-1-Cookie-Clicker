@@ -36,7 +36,12 @@
   "resources":[
     {"id":{"name":"fnt_button","path":"fonts/fnt_button/fnt_button.yy",},},
     {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},},
+    {"id":{"name":"obj_1_upgrade_button","path":"objects/obj_1_upgrade_button/obj_1_upgrade_button.yy",},},
+    {"id":{"name":"obj_10_upgrad_button","path":"objects/obj_10_upgrad_button/obj_10_upgrad_button.yy",},},
+    {"id":{"name":"obj_back_button","path":"objects/obj_back_button/obj_back_button.yy",},},
     {"id":{"name":"obj_cookie","path":"objects/obj_cookie/obj_cookie.yy",},},
+    {"id":{"name":"obj_grandma_button","path":"objects/obj_grandma_button/obj_grandma_button.yy",},},
+    {"id":{"name":"obj_grandma","path":"objects/obj_grandma/obj_grandma.yy",},},
     {"id":{"name":"obj_scoreboard","path":"objects/obj_scoreboard/obj_scoreboard.yy",},},
     {"id":{"name":"obj_store_button","path":"objects/obj_store_button/obj_store_button.yy",},},
     {"id":{"name":"rm_main_screen","path":"rooms/rm_main_screen/rm_main_screen.yy",},},
