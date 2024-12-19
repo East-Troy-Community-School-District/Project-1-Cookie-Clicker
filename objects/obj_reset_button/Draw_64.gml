@@ -4,4 +4,4 @@ draw_set_font(fnt_button);
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 draw_self();
-draw_text(x + sprite_width/2, y + sprite_height/2, "+1 Cookie per Click (" + string(self.price) + ")");
+draw_text(x + sprite_width/2, y + sprite_height/2, "Reset Game");

@@ -4,4 +4,4 @@ draw_set_font(fnt_button);
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 draw_self();
-draw_text(x + sprite_width/2, y + sprite_height/2, "Grandma (100)");
+draw_text(x + sprite_width/2, y + sprite_height/2, "+1 Cookie per 10 Seconds (" + string(self.price) + ")");
